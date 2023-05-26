@@ -1,0 +1,137 @@
+{
+    "employees": [
+      {
+        "id": "001",
+        "name": "John Doe",
+        "department": "Engineering",
+        "email": "johndoe@example.com",
+        "phone": "123-456-7890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "country": "USA"
+      },
+      {
+        "id": "002",
+        "name": "Jane Smith",
+        "department": "Marketing",
+        "email": "janesmith@example.com",
+        "phone": "987-654-3210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "USA"
+      },
+      {
+        "id": "003",
+        "name": "Robert Johnson",
+        "department": "Finance",
+        "email": "robertjohnson@example.com",
+        "phone": "555-555-5555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "USA"
+      },
+      {
+        "id": "004",
+        "name": "Emily Davis",
+        "department": "Human Resources",
+        "email": "emilydavis@example.com",
+        "phone": "111-222-3333",
+        "address": "987 Maple Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA"
+      },
+      {
+        "id": "005",
+        "name": "Michael Brown",
+        "department": "Sales",
+        "email": "michaelbrown@example.com",
+        "phone": "444-444-4444",
+        "address": "654 Pine St",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "USA"
+      },
+      {
+        "id": "006",
+        "name": "Samantha Wilson",
+        "department": "Engineering",
+        "email": "samanthawilson@example.com",
+        "phone": "999-999-9999",
+        "address": "321 Cedar Rd",
+        "city": "Boston",
+        "state": "MA",
+        "country": "USA"
+      },
+      {
+        "id": "007",
+        "name": "William Thompson",
+        "department": "Marketing",
+        "email": "williamthompson@example.com",
+        "phone": "777-777-7777",
+        "address": "456 Birch Ln",
+        "city": "Austin",
+        "state": "TX",
+        "country": "USA"
+      },
+      {
+        "id": "008",
+        "name": "Olivia Anderson",
+        "department": "Finance",
+        "email": "oliviaanderson@example.com",
+        "phone": "888-888-8888",
+        "address": "789 Cedar Ave",
+        "city": "Denver",
+        "state": "CO",
+        "country": "USA"
+      },
+      {
+        "id": "009",
+        "name": "Daniel Martinez",
+        "department": "Human Resources",
+        "email": "danielmartinez@example.com",
+        "phone": "222-333-4444",
+        "address": "654 Elm St",
+        "city": "Miami",
+        "state": "FL",
+        "country": "USA"
+      },
+      {
+        "id": "010",
+        "name": "Sophia Garcia",
+        "department": "Sales",
+        "email": "sophiagarcia@example.com",
+        "phone": "666-666-6666",
+        "address": "321 Maple Ave",
+        "city": "Houston",
+        "state": "TX",
+        "country": "USA"
+      },
+      {
+        "id": "011",
+        "name": "David Lee",
+        "department": "Engineering",
+        "email": "davidlee@example.com",
+        "phone": "777-888-9999",
+        "address": "987 Oak St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "country": "USA"
+      },
+      {
+        "id": "012",
+        "name": "Isabella Hernandez",
+        "department": "Marketing",
+        "email": "isabellahernandez@example.com",
+        "phone": "555-444-3333",
+        "address": "123 Pine St",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "USA"
+      }
+    ]
+  }
+  
